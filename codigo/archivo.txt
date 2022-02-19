@@ -1,0 +1,4 @@
+Estupendo día para estudiar Python 
+Esta linea ha sido incluida desde el exterior
+ nueva linea
+termino de la linea 
